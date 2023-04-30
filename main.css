@@ -1,0 +1,74 @@
+
+nav ul{
+    float: right;
+    padding-top: 10px;
+
+}
+nav li{
+    display: inline-block;
+    list-style: none;
+    padding: 0px 20px;
+    
+    
+}
+.logo{
+   
+    size: 100px;
+    cursor: pointer;
+    float: left;
+  
+    
+}
+nav li a {
+    font-size: 18px;
+    text-transform: uppercase;
+    padding: 0px 10px;
+    color: rgb(255, 246, 240);
+    text-decoration: none;
+    
+}
+input{
+    margin: 10px;
+    padding: 0px;
+    
+}
+
+
+label {
+  margin:10px ;
+  padding: 0px;
+
+}
+label{
+  width: 100px;
+  display: inline-block;
+  }
+  button{
+    width: 100px;
+    display: inline;
+    margin: 10px;
+    padding: 5px;
+    color: rgb(39, 112, 25);
+  }
+
+
+  iframe{
+    width: 710px;
+    height: 300px;
+    
+  }
+  form{
+    margin: 20px;
+    padding: 10px;
+   
+
+  }
+  
+
+  
+  
+  
+  
+  
+  
+  
